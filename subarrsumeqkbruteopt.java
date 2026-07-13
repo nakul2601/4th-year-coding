@@ -40,3 +40,4 @@ public class subarrsumeqkbruteopt {
         sc.close();
     }
 }
+
